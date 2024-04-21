@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "id": 2024004,
+            "name": "flash",
+            "age": 5,
+            "couleur": "black",
+            "photo": "https://media.wired.com/photos/636eb5510ae5a121565fd729/master/w_2560%2Cc_limit/WI110122_FF_ForeverDogs_2400x1350_crop.jpg"
+        }
+    ]
+}
